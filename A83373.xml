@@ -1,0 +1,356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of right: exhibited to His Maiestie, by the Lords and Commons assembled in Parliament, concerning divers rights, and the liberties of the subject; : with His Majesties severall answers to them. : Also His Majesties declaration upon the same. : Likewise, His Majesties Commission of Aray for Leicester Shire, / written by the King in Latine, and translated for the knowledge of the common-wealth. ; With the votes of both houses of Parliament concerning the same. ; John Browne cler. Parliamentorum. ; Together how Sir Henry Hastings and others had repulse, and were arested by a sergeant at armes in the execution of the said commission.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83373</idno>
+            <idno type="STC">Wing E2169A</idno>
+            <idno type="STC">ESTC R34431</idno>
+            <idno type="EEBO-CITATION">45097719</idno>
+            <idno type="OCLC">ocm 45097719</idno>
+            <idno type="VID">171314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of right: exhibited to His Maiestie, by the Lords and Commons assembled in Parliament, concerning divers rights, and the liberties of the subject; : with His Majesties severall answers to them. : Also His Majesties declaration upon the same. : Likewise, His Majesties Commission of Aray for Leicester Shire, / written by the King in Latine, and translated for the knowledge of the common-wealth. ; With the votes of both houses of Parliament concerning the same. ; John Browne cler. Parliamentorum. ; Together how Sir Henry Hastings and others had repulse, and were arested by a sergeant at armes in the execution of the said commission.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Browne, John, ca. 1608-1691.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for George Lindesay are to bee sold by Iohn Gyles at his shop in Holborne neere Davids Inne.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642. Iune 28.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the California State Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171314:1" rendition="simple:additions"/>
+            <p>THE PETITION OF RIGHT: Exhibited to his MAIESTIE, By the Lords and Commons aſſembled in Parliament, concerning divers Rights, and the Liberties of the Subject; <hi>With his Majeſties ſeverall Anſwers to them.</hi>
+            </p>
+            <p>Alſo his Majeſties Declaration upon the ſame.</p>
+            <p>
+               <hi>Likewiſe,</hi> His Majeſties Commiſſion of Aray for Leiceſter Shire, written by the King in Latine, and tranſlated for the knowledge of the Common-wealth.</p>
+            <p>
+               <hi>With the Votes of both Houſes of Parliament concerning the ſame.</hi>
+            </p>
+            <p>
+               <hi>Iohn Browne Cler. Parliamentrrum.</hi>
+            </p>
+            <p>Together how Sir <hi>Henry Haſtings</hi> and others had repulſe, and were areſted by a Sergeant at Armes in the execution of the ſaid Commiſſion.</p>
+            <p>Printed at London for <hi>George Lindeſay,</hi> and are to bee ſold by <hi>Iohn Gyles</hi> at his Shop in Holborne neere <hi>Davids Inne.</hi> 1642. <hi>Iune</hi> 28.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:171314:2"/>
+            <pb facs="tcp:171314:2"/>
+            <head>The Petition of Rights, Exhibited to his Majeſtie, by the Lords Spirituall and Temporall, and Commons in Parliament aſſembled, &amp;c.</head>
+            <opener>
+               <salute>To the Kings moſt Excellent Maieſtie.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Vmbly ſhew unto Our Soveraigne Lord the KING, the Lords Spiri<g ref="char:EOLhyphen"/>tuall, and Temporall Commons in Parliament aſſembled, That where as it is declared and enacted by a Satute made in the time of the Reigne of King <hi>Edward</hi> the firſt, commonly called <hi>Statutum de Talla<g ref="char:EOLhyphen"/>gio non concedendo,</hi> That no Tallage or Ayde ſhall be laid or levyed by the King or his Heires in this Realme, without the good will and aſſent of the Archbiſhops, Biſhops, Earles, Barons, Knights, Burgeſ<g ref="char:EOLhyphen"/>ſes, and other the Freemen of the Commonalty of this Realme. And by Authority of Parliament holden in the five and twentieth yeare of the Raigne of King <hi>Edward</hi> the third, it is declared and enacted, That from hence forth no perſon ſhould bee compelled to make any Loanes to the King againſt his will, becauſe ſuch Loanes were againſt reaſon, and the Franchiſe of the Land. And by other Lawes of this Realme it is provided, that none ſhould be charged by any charge or Impoſi<g ref="char:EOLhyphen"/>tion, called a Benevolence, nor by ſuch like charge, by which the Statutes before mentioned, and other the good Lawes and Statutes of this Realme, your Subjects have inherited this Freedome; That they ſhould not be compelled <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o contribute to any Taxe, Tallage, Ayde, or other like Charge, not ſet by common conſent in Parliament.</p>
+            <p>Yet nevertheleſſe of late, divers Commiſſions directed to ſundry Commiſſioners in ſeverall Counties with inſtructions, have iſſued; by meanes whereof your people have been in di<g ref="char:EOLhyphen"/>vers places aſſembled, and required to lend certaine ſummes of mony unto your Majeſty, and of them upon their refuſal ſo to do, have had an Oath adminiſtred unto them, not warrantable by the Lawes or Statutes of this Realme, and have been conſtrained to become bound to make appearance, and give attendance before your Privie Councell and in other places; and others of them have been therefore Impriſoned, confined, and ſundery other waies mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſted and diſquieted. And divers other charges have been levyed upon your people in ſeverall Counties, by Lord Lieutenants, Deputie-Lieutenants, Commiſſioners for Muſters, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtices of Peace, and others by Command of or Direction from your Majeſtie, or your Pri<g ref="char:EOLhyphen"/>vie Councell againſt the Lawes and free Cuſtomes of the Realme.</p>
+            <p>And where alſo by the Statute called <hi>The great Charter of the Liberties of England,</hi> It is de<g ref="char:EOLhyphen"/>clared and enacted, That no Freeman may be taken or impriſoned, or be diſſeiſed of his Free-hold, or Liberties, or his free Cuſtomes, or be outlawed, or exiled, or in any manner de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>troyed, but by the lawfull Judgement of his Peeres, or by the law of the Land.</p>
+            <p>And in the eight and twentieth yeare of the reigne of King <hi>Edward</hi> the third, it was decla<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and enacted by authority of Parliament, that no man of what eſtate and condition that <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be, ſhould be put out of his Land or Tenements, nor taken, nor impriſoned, nor diſherited, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or put to death without being brought to anſwer by due Proceſſe of Law.</p>
+            <p>
+               <pb facs="tcp:171314:3"/>
+Nevertheleſſe againſt the tenure of the ſaid Statutes, and other the good Lawes and Sta<g ref="char:EOLhyphen"/>tutes of your Realme, to that end provided, divers of your Subjects have of late been impri<g ref="char:EOLhyphen"/>ſoned without any cauſe ſhewed: And when for their deliverance they were brought before you Juſtices by your Majeſties Writs of <hi>Habeas Corpus,</hi> there to undergo and receive as the Court ſhould order, and their keepers commanded to certifie the cauſes of their detainer, no cauſe was certified, but that they were detained by your Majeſties ſpeciall command, ſigni<g ref="char:EOLhyphen"/>fied by the Lords of your Privie Councell, and yet were returned back to ſeverall priſons with<g ref="char:EOLhyphen"/>out being charged with any thing to which they might make anſwer according to Law.</p>
+            <p>And whereas of late, great Companies of Souldiers and Marriners, have beene diſperſed into divers Counties of the Realme, and the inhabitants, againſt their wills, have been compelled to receive them into their houſes, and there to ſuffer them to ſo journe againſt the Laws and Cuſtomes of this Realme, and to the great grievance and vexation of the people.</p>
+            <p>And whereas alſo by authority of Parliament, in the five and twentieth yeare of the Raigne of King <hi>Edward</hi> the third, it is declared and enacted that no man ſhould before judged of life or limbe againſt the forme of the <hi>Great Charter</hi> and the Law of the Land; And by the ſayd <hi>Great Charter,</hi> and other the Lawes and Statutes of this your Realme, no man ought to bee adjudged to death, but by the Lawes eſtabliſhed in this your Realme, either by the Cuſtomes of the ſame Realme, or by Acts of Parliament. And whereas no offender, of what kind ſoe<g ref="char:EOLhyphen"/>ver, is excepted from the proceedings to be uſed, and puniſhments to be inflicted by the Laws and Statutes of this your Realme: Nevertheleſſe, of late time divers Commiſſions under your Majeſties great Seale have iſſued forth, by which certaine perſons have beene aſſigned and appointed Commiſſioners with power and authority to proceed within the Land, accor<g ref="char:EOLhyphen"/>ding to the Juſtice of Martial law, againſt ſuch ſouldiers or Marriners, or other diſſolute perſons joyning with them, as ſhould commit any muther, robbery, felony, mutiny, or other outrage, or miſdimeanour whatſoever, and by ſuch ſummary courſe and order, as is agreeable to Mar<g ref="char:EOLhyphen"/>tiall Law, and as is uſed in Armies in time of Warre, to proceed to the tryall and condemna<g ref="char:EOLhyphen"/>tion of ſuch offenders, and them to cauſe to be executed and be put to death according to the Law Martiall.</p>
+            <p>By pretext whereof ſome of your Majeſties Subjects have beene by ſome of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners put to death, when and where, if by the Lawes and Statutes of the Land they had deſerved death by the ſame Lawes and Statutes alſo they might, and by no other ought to have beene judged and executed.</p>
+            <p>And alſo ſundry grievous offenders by colour thereof, claiming an exemption, have eſcaped the puniſhments due to them by the Laws and Statutes of this your Realme, by reaſon that di<g ref="char:EOLhyphen"/>vers of your Officers and Miniſters of Juſtice have unjuſtly refuſed or forborne to proceed againſt ſuch offenders, according to the ſame Lawes and Statutes, upon pretence that the ſaid offenders were puniſhable onely by Martiall Law, and by authority of ſuch Commiſſio<g ref="char:EOLhyphen"/>ners as aforeſaid: Which Commiſſioners and all other of like nature are wholy and directly contrary to the ſaid Lawes and Statutes of this your Realme.</p>
+            <p>They do therfore humbly pray your moſt Excellent Majeſty, hat no man hereafter be compel<g ref="char:EOLhyphen"/>led to make or yeeld any Gift or Loane, Benevolence, Taxe or ſuch like Charge, without com<g ref="char:EOLhyphen"/>mon conſent by Act of Parliament. And that none be called to make anſwer, or to take ſuch Oath, or to give attendance, or be confined, or otherwiſe moleſted, or diſquieted concerning the ſame, or for refuſall thereof. And that no Freeman in any ſuch manner as is before men<g ref="char:EOLhyphen"/>tioned, be impriſoned or detained. And that your Majeſty would be pleaſed to remove the ſaid Souldiers and Marriners, and that your people may not be ſo burthened in time to come. And that the foreſaid Commiſſioners for proceeding by Martiall Law may be revoked, and annulled. And that hereafter no Commiſſions of like nature may iſſue forth to any perſon or perſons whatſoever, to be executed, as aforeſaid, leſt by colour of them any of your Ma<g ref="char:EOLhyphen"/>j<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Subjects be deſtroyed or put to death, contrary to the Lawes and Franchiſe of the Land.</p>
+            <p>
+               <pb facs="tcp:171314:3"/>
+All which they moſt humbly pray, of your moſt Excellent Majeſty, and their Rights and Liberties, according to the Laws and Statutes of this Realme. And that your Majeſty would alſo vouchſafe to declare the Awards, doings and proceedings, to the prejudice of your people, in any of the premiſſes, ſhall not be drawne hereafter into conſequence of example. And that your Majeſty would be alſo graciouſly pleaſed, for the further comfort and ſafety of your people, to declare your Royall will and pleaſure, that in the things aforeſaid, all your Officers and Miniſters ſhal ſerve you according to the Laws and Statutes of this Realm, as they tender the honour of your Majeſtie, and the proſperity of this Kingdome.</p>
+         </div>
+         <div type="disposition">
+            <p>
+               <hi>Which Petition being read, the Kings anſwer was thus delivered unto it.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="kings_answer">
+                        <p>THe King willeth, that Right be done according to the Lawes and Cuſtomes of this Realme: And that the Statutes be put in due execution, that his ſubjects may have no cauſe to complaine of any wrong, or oppoſitions, contrary to their juſt rights and liberties: To the preſervation whereof, He holds himſelfe in conſcience as well obliged, as of His Prerogative.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>But this anſwer not giving ſatisfaction, the King was againe petitioned unto, that he would give a full and ſatisfactory anſwer to their Petition in full Parliament.</hi>
+            </p>
+            <p>Whereupon the King in Perſon made this ſecond anſwer.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="kings_answer">
+                        <opener>
+                           <salute>My Lords and Gentlemen,</salute>
+                        </opener>
+                        <p>THe anſwer I have already given you, was made with ſo good deliberation, and approved by the judgements of ſo many wiſe men, that I could not have imagined, but that it ſhould have given you full ſatisfaction, but to avoid al ambiguous interpretations, &amp; to ſhew you that there is no doubleneſſe in my meaning, I am willing to pleaſe you in words, as well as in ſubſtance. Read your Petition, and you ſhall have an anſwer that I am ſure will pleaſe you.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>And then cauſing the Petition to be diſtinctly read by the Clerke of the Crowne, the Clerke of the Parliament read the Kings anſwer thereto in theſe words.</hi>
+            </p>
+            <q>
+               <p>Soit droit fait come eſt deſire, <hi>Let right be done as is deſired.</hi>
+               </p>
+            </q>
+            <p>Which being done, the King in Perſon ſaid thus.</p>
+            <q>
+               <p>THis I am ſure is full, yet no more then I granted you in my firſt anſwer, for the meaning of that was, to confirme all your Liberties, knowing according to your owne proteſtations, that you nei<g ref="char:EOLhyphen"/>ther meane, nor can hurt my Prerogative: And I aſſure you my <hi>Maxime</hi> is, That the peoples <hi>Liber<g ref="char:EOLhyphen"/>ty</hi> ſtrengthens the Kings <hi>Prerogative,</hi> awd that the Kings <hi>Prerogative</hi> is to defend the peoples <hi>Liberties.</hi>
+               </p>
+               <p>Ye ſee now, how ready I have ſhewed my ſelfe to ſatisfie your demands, ſo that I have done my part: Wherefore if this Parliament have not a happy concluſion, the ſin is yours, I am free of it.</p>
+            </q>
+            <p>And on the laſt day of the Seſſion, His Majeſties Speech to both Houſes before his aſſent to the Bills, was this,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>My Lords and Gentlemen,</salute>
+                        </opener>
+                        <p>IT may ſeeme ſtrange that I come ſo ſuddenly to end this Seſſion, therefore before I give my aſſent to the Bills, I will tell you the cauſe, though I muſt avow that I owe an occount of my actions to none but God alone. It is knowne to every one, that a while agoe the Houſe of Commons gave mee a Remonſtrance, how acceptable every man may judge, and for the merit of it, I will not call that in queſtion, for I am ſure no wiſe man can juſtifie it.</p>
+                        <p>
+                           <pb facs="tcp:171314:4"/>
+                           <gap reason="illegible: blotted" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> ſince I am certainly informed that a ſecond Remonſtrance is preparing for me to take away <gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> fit of Tonnage and Poundage (one of the chiefe maintenances of the Crowne) by alledging that I have given away my right thereof, by my anſwer to your Petition.</p>
+                        <p>This is prejudiciall unto me, that I am forced to end this Seſſions ſome few houres before I meant it, being willing to receive any more Remonſtrances, to which I muſt give a harſh anſwer.</p>
+                        <p>And ſince I ſee that even the Houſe of Commons begins already to make falſe inſtructions of what I granted in your Petition, leſt it beworſe interpreted in the Country, I will now make a new Decla<g ref="char:EOLhyphen"/>ration concerning the true intent thereof.</p>
+                        <p>The profeſſion of both Houſes in the time of hammering this Petition, was no wayes to trench upon my Prerogative, ſaying, They had neither intention nor power to hurt it.</p>
+                        <p>Therefore it muſt needs be conceived, that I have granted no new, but onely confirmed the ancient Liberties of my Subjects; yet to ſhew the clearneſſe of my intentions, that I neither repent nor meane to recede from any thing I have promiſed you, I doe here declare, that thoſe things: which have beene done, whereby men had ſome cauſe to ſuſpect the Liberty of the ſubjects to be trencht upon (which in<g ref="char:EOLhyphen"/>deed was the firſt and true ground of the Petition) ſhall not hereafter be drawne into example for your prejudice: And in time to come (in the words of a King) you ſhall not have the like cauſe to complain.</p>
+                        <p>But as for Tonnoge and Poundage, it is a thing I cannot want, and was never intended by you to aske, never meant (I am ſure) by me to grant.</p>
+                        <p>To conclude, I command you all that are here to take notice what I have ſpoken at this time, to bee the true intent and meaning of what I granted you in your Petition. But eſpecially you my Lords the Iudges, for to you onely under me belongs the interpretation of Lawes, for none of the Houſe of Par<g ref="char:EOLhyphen"/>liament, jointly or ſeparate (what new doctrine ſoever may be raiſed) have any power either to make or declare a Law without my conſent.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="proclamation">
+            <head>His Majeſties Commiſsion of Aray for Leiceſterſhire.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Harles</hi> by the grace of God, King of England, Scotland, France &amp; Ire<g ref="char:EOLhyphen"/>land, Defender of the Faith, &amp;c. To our deare and well-beloved, <hi>Henry</hi> Earle of Huntington, and <hi>William</hi> Earle of Devon, and to our loving and faithfull <hi>Henry Haſtings,</hi> Knight, ſonne to the ſaid Earle of <hi>Hun<g ref="char:EOLhyphen"/>tington, Henry Berkley, George Villers, Thomas Burton,</hi> Baronets; <hi>Henry Skipwith, Iohn Skeffington</hi> and <hi>Richard Halford,</hi> Knights and Baronets; <hi>Wolſtan Dix<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Richard Roberts, Iohn Bale, Thomas Hartop, Eraſmus de la Fountaine,</hi> and <hi>William Iones</hi> Knights; <hi>Henry Haſtings of Humberſton, George Aſhby,</hi> and <hi>Iohn Pate,</hi> Squires, and to our Sheriffe of the County of Leiceſter for the time during, health and greetings. Theſe are to let you know, that We, if the malice of our enemies ſhould preſume to invaade our Kingdome of England, (which be farre abſent) are willing by the Divine grace favouring Us to reſiſt, and to diſpoſe and order the ſame for the ſafety and defence of our Selfe and of our Kingdome aforeſaid, and of our Liege people: We have aſſigned you, or any three of you, or more, to array and ex<g ref="char:EOLhyphen"/>erciſe all and ſingular men of Arms, or men armed, and Archers remaining in the County a<g ref="char:EOLhyphen"/>foreſaid, within the liberty and without, to cauſe all thoſe to be armed, who are able of body and fit to be armed, who are of ſufficient ability to arme themſelves, <hi>viz.</hi> whoſoever of them according to his ſtate and faculty, both to aſſide and contribute, according to the adviſemen<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and diſcretion of you, or any three or more of you: and alſo to ſtraine and command all thoſe who are able in land or goods, and impotent by reaſon of the weakneſſe of their bodies, t<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> labour to finde according to the quantity of his Lands and goods, as he may beare it ratio<g ref="char:EOLunhyphen"/>nably (his ſtate being ſecure) to be armed: Men of Armes, and men armed either with Bows
+<pb facs="tcp:171314:4"/>
+or Arrowes, ſo that they ſhall not delay, or cauſe to be delayed at his owne houſe in his owne Countrey, in defence of the ſaid Kingdome, againſt our enemies, if danger ſhould happen, that for their delay they endanger not the Kingdome. And to the ſaid men of Armes, or ar<g ref="char:EOLhyphen"/>med men and Archers ſo arrayed and furniſhed continually in their arrayment as in an hun<g ref="char:EOLhyphen"/>dred thouſand, or other-wiſe, as it ſhall be held neceſſary and convenient, but wee doe aſ<g ref="char:EOLhyphen"/>ſigne you, or any three or more of you, of whom we intend you <hi>Henry</hi> Earle of Huntington aforeſaid; and in your abſence, you <hi>William</hi> Earle of Devon, or you <hi>Henry Haſtings</hi> aforeſaid, ſonne to the ſaid Earle of Huntington, ſhould be one to command and enjoyne theſe men of Armes, or men armed, and Archers ſo arrayed and habilited, as well at the Sea-coaſts, as in any other places, where, and as often as it ſhall be neceſſary to expell, beat back and deſtroy our enemies from time to time, when any danger ſhall appeare. We aſſigne alſo you, and any three or more of you, to muſter, or cauſe thoſe men of Armes, men armed, and Archers from time to time, as often as need ſhall require, diligently to be done and ſuperviſed. And alſo to proclaime, order, and diligently examine, that all and ſingular of theſe men of Armes, men armed, or Archers, to bee armed with their owne, and no other Armes, upon puniſhment of loſing them: thoſe onely excepted, who ought to be armed at the expences of others, as is a<g ref="char:EOLhyphen"/>foreſaid, and to areſt and take all and ſingular, whom you ſhall finde contrary and rebellious in this caſe, and to commit them to our priſon, and to remaine in the ſame, till they bee freed by the Law. Therfore Wee command and enjoine you more ſtrictly, that Wee may by the faith and allegation whereby Wee are bound, that theſe Preſents being ſeene, that you may be more ſecurely arayed and prepared before you at certaine dayes and places, which ſhall ſeeme more competent and expedient, and leſſe hurtfull to our people, that all men ſtaying in your Countrey, by whom the Arayment and Ammunition may be better performed, come and are called, and thoſe to be arayed, armed and habilited, &amp; thoſe ſo arayed &amp; habilited in this arrayment, be co<g ref="char:cmbAbbrStroke">̄</g>pleated: and that you cauſe the ſignes to be ſet up called <hi>Beakins,</hi> in the accu<g ref="char:EOLhyphen"/>ſtomed places, by which the Country may be fore-armed, and fore-warned of the comming of our enemies, in congruent times. And that you cauſe thoſe men ſo arayed &amp; habilited, when danger ſhall be feared, <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o march out in defence of the King and Countrey, from time to time, as well at the Sea-coaſt, as in any other places, when it ſhall be more neceſſary, or that any 3. or more of you, whereof we intend that you, <hi>Henry</hi> Earle of <hi>Huntington,</hi> and in your abſence <hi>William</hi> Earle of Devon, or you <hi>Henry Haſtings,</hi> ſon to the aforeſaid Earl of Huntington, ſhal be one that ſhall command them to march out, as is aforeſaid, ſo that for the defect of the defence, arayment, or marching out of the ſaid men of Armes, or by your negligence the loſſe of the Countrey be not cauſed by our enemies in any manner: But wee doe grant to all and ſingular Earles, Barons, Knights, Maiors, Bailiffes, Conſtables, Miniſters, and other faithfull and liege Earles aforeſaid (as well within the liberty as without) firmly by the te<g ref="char:EOLhyphen"/>nour of theſe preſents, in command that they be intendant, counſelling, and helping &amp; aſſiſt<g ref="char:EOLhyphen"/>ing you, or either of you, in the execution of the foreſaid premiſes. And that you cauſe that all thoſe in the Counties foreſaid, doe meet before you, or before any three or more of you, at certaine dayes and places, which you, or any three or more of you, as aforeſaid, ſhall ordaine moſt convenient, by whom the arayment, aſſeſſion, and ordination may be the better execu<g ref="char:EOLhyphen"/>te, and thoſe to whom it ſhall happen to be taken and areſted for rebellion, to be kept in pri<g ref="char:EOLhyphen"/>ſon, as is aforeſaid. In teſtimony wherof we have made theſe our Letters Patents. Witneſſe our Selfe the eleventh day of June, in the eighteenth yeare of Our reigne.</p>
+            <p>By the King,</p>
+            <p>
+               <hi>W<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llis,</hi>
+            </p>
+         </div>
+         <div type="resolution">
+            <pb facs="tcp:171314:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi <hi>18.</hi> Iunit <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>Reſolved upon the Queſtion by the Lords and Commons aſſembled in Parliament.</p>
+            <p>
+               <hi>THat this Commiſſion of Array for Leiceſter is againſt Law and the liberty and property of the Subject.</hi>
+            </p>
+         </div>
+         <div type="resolution">
+            <opener>
+               <dateline>
+                  <date>Die Lunae <hi>20</hi> Iunii. <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>Reſolved upon the Queſtion, &amp;c.</p>
+            <p>
+               <hi>THat all thoſe that are Actors in the putting of the Commiſſion of Array in execution ſhall be eſteemed as diſturbers of the peace of the Kingdome, and betrayers of the liberty of the Subject.</hi>
+            </p>
+            <p>ORdered that this Commiſſion of Array and the aforeſaid Votes ſhal<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be forthwith printed and publiſhed through the Kingdome.</p>
+            <closer>
+               <signed>Ioh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="disposition">
+            <head>The Commiſsion of Aray put in Execution.</head>
+            <p>HIS Majeſty having ſent this Commiſſion of Aray unto the above-name<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which was not with little acceptation received by Sir <hi>Henry Haſtings,</hi> ſonn<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Earle of Huntington, Mr. <hi>Hofford</hi> of Wiſtoe, &amp;c. by reaſon the Lo<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Ruthin,</hi> and Sir <hi>Arthur Haſſelridge,</hi> contrary to their deſire and expectation prevailed with the County, and were choſen Knights of the Shire, and wor<g ref="char:EOLunhyphen"/>thily preferred in their behalfe to conſult with the high and honourable Aſ<g ref="char:EOLunhyphen"/>ſembly of Parliament. And therefore with all alacrity endeavour with all their power to op<g ref="char:EOLunhyphen"/>poſe the obedient endeavours to the Parliaments command of the Lord <hi>Ruthin</hi> and Sir <hi>Arthr<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Haſſelridge,</hi> &amp;c.</p>
+            <p>On Wedneſday, the 22. of this preſent June in the afternoone, the fore-named <hi>Henr<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Haſtings,</hi> with others, came to Leiceſter with a great number of attendants, who ſided wit<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, to put their Commiſſion of Aray in execution, thereby to nullifie what the other ha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> already performed, and to impriſon thoſe that ſhould not aſſiſt them in this deſigne, or ſhoul<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide with the other: ſo that great commotions began to riſe: for this hoſtile number ſo ſud<g ref="char:EOLunhyphen"/>denly comming upon them made the inhabitants feare, they came to ſurpriſe the Towne. Th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord <hi>Ruthin</hi> and Sir <hi>Arthur Haſſelridge</hi> giving their perſonall attendance in the fore-noon<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and had with their owne hands and others ſtuck upon poſts in the market place, &amp; other pl<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ces, orders from the truſty &amp; honourable Houſe of Parliament, which the ſaid <hi>Henry Haſtin<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> with their company, pulled off, &amp; vilified with opprobrious words. At which the Towneſme<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> took it very heynouſly, and ſaid, It was a high affront, and great indignity to the Parliament.</p>
+            <p>And although the Lord <hi>Ruthin</hi> and Sir <hi>Arthur Haſſelridge,</hi> were not preſent at th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inſtant of time, when theſe great diſaſters were like to befall, yet the wiſedome of the P<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>liament had provided (that if whom they had appointed Lieutenants for that County, ſho<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have any oppoſition) a Sergeant at Armes, who was there preſent, and did in the Kings nam<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and in the name of the high Court of Parliament, areſt the ſaid <hi>Henry Haſtings</hi> and oth<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and would have their bodies put into ſafe cuſtody.</p>
+            <p>This ſudden act perſwaded their mindes to deſiſt, as was thought by the changing of th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> colour: and now began the Towneſmen to beſtirre themſelves, to have the Sergeant at Ar<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Priſoners forth-comming.</p>
+            <p>But by reaſon of the multitude of the one, and the paucity of the other, after much ſtriv<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> for the ſpace of two houres, at length got the Priſoners mounted on Horſe-backe, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> once rode all away together.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
